@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Playground : elasticdump
+title: Playground > elasticdump
 ---
 
 Created by Minsoo jun, last modified on 2017-07-19
