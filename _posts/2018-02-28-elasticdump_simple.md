@@ -1,9 +1,8 @@
 ---
 layout: post
-title: elasticdump
+title: Playground : elasticdump
 ---
-Playground : elasticdump
-========================
+
 Created by Minsoo jun, last modified on 2017-07-19
 
 #[elasticdump](https://www.npmjs.com/package/elasticdump)
