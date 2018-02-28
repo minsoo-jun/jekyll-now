@@ -2,7 +2,7 @@
 layout: post
 title: elasticdump
 ---
-Playground > elasticdump
+Playground : elasticdump
 ===================
 Created by Minsoo jun, last modified on 2017-07-19
 
